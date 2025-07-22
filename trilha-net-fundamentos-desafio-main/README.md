@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
+# DIO - Trilha .NET - Fundamentos // Implementação sugerida por @leonardo-buta
 www.dio.me
 
 ## Desafio de projeto
